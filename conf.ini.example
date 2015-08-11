@@ -1,6 +1,6 @@
 #url can return your public ip address
 [url]
-url = http://members.3322.org/dyndns/getip
+url = http://ifconfig.me
 
 [mail_server]
 smtp_server = smtp.example.com
