@@ -1,0 +1,13 @@
+#url can return your public ip address
+[url]
+url = http://members.3322.org/dyndns/getip
+
+[mail_server]
+smtp_server = smtp.example.com
+mail_user = user
+mail_pass = password
+mail_postfix = example.com
+
+[user]  
+mailto_list = ["user1@example.com","user2@example.com"]
+
